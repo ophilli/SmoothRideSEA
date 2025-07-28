@@ -2,3 +2,4 @@ public/
 static/syntax-theme-dark.css
 static/syntax-theme-light.css
 static/processed_images
+.DS_Store
